@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@iamjabeed](https://hashnode.com/@iamjabeed)
 
-- 💬 Ask me about **javaScript, CSS, HTML**
+- 💬 Ask me about **React, javaScript, CSS, HTML**
 
 - 📫 How to reach me **jabeedsyedinfo@gmail.com**
 
