@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jabeed syed</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Engineer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Front-End development<br>👯 I’m looking to collaborate on Reactjs projects<br>🌱 I’m currently learning React.js<br>💬 Ask me about JavaScript<br>📝 I regularly write articles on [https://hashnode.com/@iamjabeed](https://hashnode.com/@iamjabeed)<br>📫 How to reach me jabeedsyedinfo@gmail.com<br>
+🔭 I’m currently working on Full Stack development<br>👯 I’m looking to collaborate on MERN projects<br>🌱 I’m currently learning WEB<br>💬 Ask me about JavaScript<br>📝 I regularly write articles on [https://hashnode.com/@iamjabeed](https://hashnode.com/@iamjabeed)<br>📫 How to reach me jabeedsyedinfo@gmail.com<br>
 
 
 ## 🌐 Socials:
