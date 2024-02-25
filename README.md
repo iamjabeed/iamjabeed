@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Engineer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Full Stack development<br>👯 I’m looking to collaborate on MERN projects<br>🌱 I’m currently learning WEB<br>💬 Ask me about JavaScript<br>📝 I regularly write articles on [https://hashnode.com/@iamjabeed](https://hashnode.com/@iamjabeed)<br>📫 How to reach me jabeedsyedinfo@gmail.com<br>
+🔭 I’m currently working on Full Stack development<br>👯 I’m looking to collaborate on Full stack projects<br>🌱 I’m currently learning DSA<br>💬 Ask me about JavaScript<br>📝 I regularly write articles on [https://hashnode.com/@iamjabeed](https://hashnode.com/@iamjabeed)<br>📫 How to reach me jabeedsyedinfo@gmail.com<br>
 
 
 ## 🌐 Socials:
